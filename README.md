@@ -4,4 +4,4 @@ This is the final project for the Data Science and Data Engineering Tools course
 ## Presentation video on Youtube
 https://www.youtube.com/watch?v=pcaAAx4A11o
 
-***YOLO (You Only Learn Once): Chaiyaphop Jamjumrat, รัชนีพร ช่างปั้น, แพรรดา วงศ์สูง. (2023, Dec 9). Llama2 Scopus Retrieval Q&A.***
+***YOLO (You Only Learn Once): Chaiyaphop Jamjumrat, Radchaneeporn Changpun, Praerada Wongsung. (2023, Dec 9). Llama2 Scopus Retrieval Q&A.***

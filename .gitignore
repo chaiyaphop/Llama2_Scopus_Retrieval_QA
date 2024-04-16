@@ -1,0 +1,5 @@
+### ignore file ###
+# .gitignore
+.ipynb_checkpoints
+.DS_Store
+__pycache__
